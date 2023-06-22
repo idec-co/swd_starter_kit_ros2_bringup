@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>swd_starter_kit_ros2_bringup</name>
+  <version>1.0.0</version>
+  <description>The swd_starter_kit_ros2_bringup package</description>
+  <maintainer email="zz_gitadmin@idec.com">IDEC Corporation</maintainer>
+  <license>LGPLv2.1</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
