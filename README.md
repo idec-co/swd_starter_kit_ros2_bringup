@@ -14,7 +14,7 @@ This package provides the joystick control of the ez-Wheel [Safety Wheel Drive](
 sudo apt install ros-foxy-joy ros-foxy-teleop-twist-joy ros-foxy-urg-node ros-foxy-tf2-ros
 ```
 
-# Useage
+# Usage
 ### SWD® Starter Kit
 
 Bring up ROS2 packages:
